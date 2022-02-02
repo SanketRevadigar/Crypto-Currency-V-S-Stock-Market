@@ -1,1 +1,0 @@
-Run multipage.py in terminal using streamlit run command
